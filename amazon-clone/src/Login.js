@@ -56,7 +56,7 @@ const register = e => {
                    <button type='submit' onClick={signIn} className="login--signButton">Sign In</button>
                </form>
                <p>
-                   By continuing, you agree to amazon's conditions of use and privacy notice, our cookies notice and our intrest-based ads notice. 
+                   By continuing , you agree to amazon's conditions of use and privacy notice, our cookies notice and our intrest-based ads notice. 
                </p>
                <button type="submit" onClick={register} className="login--registerButton">Create your Amazon Account</button>
            </div>
